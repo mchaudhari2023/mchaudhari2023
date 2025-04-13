@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate educator and mentor. I love creating useful tools that help solve real-world problems through code.
 
 ## 🔧 Technologies & Tools
-- 💻 Languages: [Python, JavaScript, Java, C#]
-- 🛠️ Tools & Frameworks: [Apache Spark, Apache Airflow ]
+- 💻 Languages: [Python, Java, C#, JavaScript]
+- 🛠️ Tools & Frameworks: [Apache Spark, Apache Airflow]
 - ☁️ Cloud & DevOps Technologies: [AWS, GCP]
 - 🗃️ Databases: [PostgreSQL, MongoDB, MySQL, BigQuery, Redshift, Athena]
 
