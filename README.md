@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Mahesh Chaudhari, Ph.D.!
 
 Welcome to my GitHub profile! I'm a passionate educator and mentor. I love creating useful tools that help solve real-world problems through code.
 
