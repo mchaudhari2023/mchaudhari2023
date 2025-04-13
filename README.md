@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate educator and mentor. I love creat
 - 🗃️ Databases: [PostgreSQL, MongoDB, MySQL, BigQuery, Redshift, Athena]
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/maheshchaudhari/)
-- Portfolio: [Your Website](https://maheshchaudhari.com/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/maheshchaudhari/)
+- Portfolio: [Website](https://maheshchaudhari.com/)
 <!--
 **mchaudhari2023/mchaudhari2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
