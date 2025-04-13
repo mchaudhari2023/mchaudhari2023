@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]!
+
+Welcome to my GitHub profile! I'm a passionate educator and mentor. I love creating useful tools that help solve real-world problems through code.
+
+## 🔧 Technologies & Tools
+- 💻 Languages: [Python, JavaScript, Java, C#]
+- 🛠️ Tools & Frameworks: [Apache Spark, Apache Airflow ]
+- ☁️ Cloud & DevOps Technologies: [AWS, GCP]
+- 🗃️ Databases: [PostgreSQL, MongoDB, MySQL, BigQuery, Redshift, Athena]
+
 
 <!--
 **mchaudhari2023/mchaudhari2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
